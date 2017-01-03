@@ -1,0 +1,31 @@
+# Site settings
+title:  Пуанкаре
+subtitle: Блог
+email: info@poincare.ru
+description: Публикуем рассказы о мероприятиях<br /> Пишем заметки на околоматематические темы
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
+url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 20
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+facebook_url: https://facebook.com/poincare.centre/
+instagram_url: https://instagram.com/poincare_school
+vk_url: https://vk.com/poincare.centre
+pinterest_url:
+slack_url:
+
+# Build settings
+markdown: kramdown
