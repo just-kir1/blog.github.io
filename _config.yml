@@ -3,7 +3,7 @@ title:  Пуанкаре
 subtitle: Блог
 email: info@poincare.ru
 description: Публикуем рассказы о мероприятиях<br /> Пишем заметки на околоматематические темы
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+ # the subpath of your site, e.g. /blog
 url: "https://just-kir1.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
