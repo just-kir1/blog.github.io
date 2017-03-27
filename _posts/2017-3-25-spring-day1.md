@@ -18,7 +18,7 @@ image: assets/images/Spring2017/Day1/Фон.JPG
 <img src="assets/images/Spring2017/Day1/2.JPG" alt=""  width="60%">
 </center>
 
-Во время игры некоторыми пришлось проявить чудеса компактности (и командности!)...
+Во время игры нам пришлось проявить чудеса компактности (и командности!)...
 <center>
 <img src="/assets/images/Spring2017/Day1/3.JPG" alt=""  width="60%">
 </center>
