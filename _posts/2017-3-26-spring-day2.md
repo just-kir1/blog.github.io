@@ -91,6 +91,7 @@ image: assets/images/Spring2017/Day2/Фон.JPG
 </center>
 
 Страсть к головоломкам захватила школу настолько, что мы не останавливаемся даже за едой!
+
 P.S. Сколько пальцев?
 <center>
 <img src="/assets/images/Spring2017/Day2/20.jpg" alt=""  width="60%">
