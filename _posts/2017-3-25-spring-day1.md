@@ -15,7 +15,7 @@ image: assets/images/Spring2017/Day1/Фон.JPG
 <img src="/assets/images/Spring2017/Day1/1.JPG" alt=""  width="60%">
 </center>
 <center>
-<img src="assets/images/Spring2017/Day1/2.JPG" alt=""  width="60%">
+<img src="assets/images/Spring2017/Day1/2.jpg" alt=""  width="60%">
 </center>
 
 
