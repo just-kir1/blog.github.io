@@ -14,7 +14,7 @@ image: assets/images/Spring2017/Day2/Фон.jpg
 <img src="/assets/images/Spring2017/Day2/1.jpg" alt=""  width="60%">
 </center>
 <center>
-<img src="/assets/images/Spring2017/Day2/2.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/2.JPG" alt=""  width="60%">
 </center>
 <center>
 <img src="/assets/images/Spring2017/Day2/3.jpg" alt=""  width="60%">
@@ -37,7 +37,7 @@ image: assets/images/Spring2017/Day2/Фон.jpg
 
 Трубогранники - это каркасные модели многогранников, сделанные из разноцветных пластиковых трубочек.
 <center>
-<img src="/assets/images/Spring2017/Day2/21.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/21.JPG" alt=""  width="60%">
 </center>
 
 На протяжении следующих трех часов и школьники, и преподаватели собирали модели, дружно окрещённые турбо-гранниками :)
@@ -79,10 +79,10 @@ image: assets/images/Spring2017/Day2/Фон.jpg
 После ужина все собрались в аудиторном корпусе для вечерних студий: играли в Перудо и выкидывали самые невероятные комбинации кубиков, 
 от души посмеялись на "Шляпе" и изобрели "душеширь" - синоним слова "великодушие".
 <center>
-<img src="/assets/images/Spring2017/Day2/17.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/17.JPG" alt=""  width="60%">
 </center>
 <center>
-<img src="/assets/images/Spring2017/Day2/22.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/22.JPG" alt=""  width="60%">
 </center>
 
 Самые сильные умы пытались расколоть головоломку с загадочным названием "Лепестки роз"... и у некоторых даже получилось ;)
@@ -94,5 +94,5 @@ image: assets/images/Spring2017/Day2/Фон.jpg
 
 P.S. Сколько пальцев?
 <center>
-<img src="/assets/images/Spring2017/Day2/20.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/20.JPG" alt=""  width="60%">
 </center>
