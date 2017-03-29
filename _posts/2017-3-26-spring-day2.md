@@ -82,7 +82,7 @@ image: assets/images/Spring2017/Day2/Фон.jpg
 <img src="/assets/images/Spring2017/Day2/17.jpg" alt=""  width="60%">
 </center>
 <center>
-<img src="/assets/images/Spring2017/Day2/18.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day2/22.jpg" alt=""  width="60%">
 </center>
 
 Самые сильные умы пытались расколоть головоломку с загадочным названием "Лепестки роз"... и у некоторых даже получилось ;)
