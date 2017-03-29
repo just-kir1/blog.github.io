@@ -2,7 +2,7 @@
 layout: post
 title:  Второй день
 description: Весенняя Пуанкаре-школа 2017
-image: assets/images/Spring2017/Day2/Фон.JPG
+image: assets/images/Spring2017/Day2/Фон.jpg
 ---
 
 
