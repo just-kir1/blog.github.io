@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Первый день
+title:  Третий день
 description: Весенняя Пуанкаре-школа 2017
 image: assets/images/Spring2017/Day3/Фон.JPG
 ---
