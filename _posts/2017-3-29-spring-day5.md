@@ -10,33 +10,33 @@ image: assets/images/Spring2017/Day5/Фон.jpg
 **День пятый: **<br>
 После нашего возвращения с экскурсии на базе уверенно установилась солнечная погода!
 <center>
-<img src="/assets/images/Spring2017/Day5/15.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/15.JPG" alt=""  width="60%">
 </center>
 
 Весь прошлый день мы провели на ногах, поэтому сегодня плотно засели за учёбу.
 <center>
-<img src="/assets/images/Spring2017/Day5/3.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/3.JPG" alt=""  width="60%">
 </center>
 <center>
-<img src="/assets/images/Spring2017/Day5/4.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/4.JPG" alt=""  width="60%">
 </center>
 
 Ребята моделировали маятник, который сами собрали в первый день школы.
 <center>
-<img src="/assets/images/Spring2017/Day5/1.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/1.JPG" alt=""  width="60%">
 </center>
 <center>
-<img src="/assets/images/Spring2017/Day5/2.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/2.JPG" alt=""  width="60%">
 </center>
 
 Пытались придумать свой собственный математический карточный фокус.
 <center>
-<img src="/assets/images/Spring2017/Day5/5.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/5.JPG" alt=""  width="60%">
 </center>
 
 Собирали многогранники - и дети, и взрослые :)
 <center>
-<img src="/assets/images/Spring2017/Day5/6.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day5/6.JPG" alt=""  width="60%">
 </center>
 <center>
 <img src="/assets/images/Spring2017/Day5/7.jpg" alt=""  width="60%">
