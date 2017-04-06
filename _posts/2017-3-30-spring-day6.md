@@ -30,7 +30,7 @@ image: assets/images/Spring2017/Day6/Фон.jpg
 <img src="/assets/images/Spring2017/Day6/4.jpg" alt=""  width="60%">
 </center>
 
-На курсе Маши и Ильдара ребята вообружаются рулетками...
+На курсе Маши и Ильдара ребята вооружаются рулетками...
 <center>
 <img src="/assets/images/Spring2017/Day6/5.JPG" alt=""  width="60%">
 </center>
