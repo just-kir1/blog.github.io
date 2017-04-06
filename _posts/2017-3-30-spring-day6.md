@@ -23,7 +23,7 @@ image: assets/images/Spring2017/Day6/Фон.jpg
 <img src="/assets/images/Spring2017/Day6/3.jpg" alt=""  width="60%">
 </center>
 
-Но внимательные рассчёты рано или поздно приводят к правильному результаты.
+Но внимательные рассчёты рано или поздно приводят к правильному результату.
 <center>
 <img src="/assets/images/Spring2017/Day6/2.jpg" alt=""  width="60%">
 </center><center>
@@ -32,7 +32,7 @@ image: assets/images/Spring2017/Day6/Фон.jpg
 
 На курсе Маши и Ильдара ребята вообружаются рулетками...
 <center>
-<img src="/assets/images/Spring2017/Day6/5.jpg" alt=""  width="60%">
+<img src="/assets/images/Spring2017/Day6/5.JPG" alt=""  width="60%">
 </center>
 
 ...и деревянные лабиринты базы постепенно переносятся на бумагу.
@@ -40,7 +40,7 @@ image: assets/images/Spring2017/Day6/Фон.jpg
 <img src="/assets/images/Spring2017/Day6/6.jpg" alt=""  width="60%">
 </center>
 
-После обеда Антон продемонстрировал всем особенно сладкий эксперимент - распространение света в сахарном растворе с градинтном плотности!
+После обеда Антон продемонстрировал всем особенно сладкий эксперимент - распространение света в сахарном растворе с градиентом плотности!
 <center>
 <img src="/assets/images/Spring2017/Day6/12.jpg" alt=""  width="60%">
 </center>
