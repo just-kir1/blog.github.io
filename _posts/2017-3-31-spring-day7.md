@@ -2,7 +2,7 @@
 layout: post
 title:  Седьмой день
 description: Весенняя Пуанкаре-школа 2017
-image: assets/images/Spring2017/day7/Фон.jpg
+image: assets/images/Spring2017/day7/Фон.JPG
 ---
 
 
